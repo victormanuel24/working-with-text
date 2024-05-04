@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://victormanuel24.github.io/working-with-text/)
 
 
 ## Getting Started
